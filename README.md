@@ -49,3 +49,77 @@ connected and be in touch with the friends and family. Digital platforms were th
 best option for people to be connected. Social networking has been evidenced to 
 have both positive and negative effects on our youths.COVID-19 has silently and 
 rapidly spread across India. 
+
+
+**CONCLUSIONS**
+ 
+1. It can be concluded that proportion of people opting for offline mode of 
+shopping before and after COVID is not the same. 
+2. It can also be concluded that proportion of people attending online lectures 
+regularly of two age groups is same and the proportion of males and females 
+attending online lectures regularly is also the same. 
+3. We can conclude that preferred mode of education and stream of education 
+are not associated with each other. 
+4. Change in time spent on internet during COVID is not dependent on age 
+group. 
+5. It can be concluded that impact of COVID on mental health of students is 
+dependent on interruption in education caused by COVID. 
+6. Average understanding in online mode of education is less than average 
+understanding in offline mode of education for students, which shows that 
+students prefer traditional way of learning over digitalization of education . 
+7. The average monthly family expenditure of PG and hostel students is the 
+same. 
+8. It can be observed that testing positive for COVID has a significant effect on 
+COVID causing negative impact on physical health.  
+9. The average study time for students before, during and after COVID differs. 
+10. From the decision tree it can be concluded that for all age groups, almost all 
+male students tested positive with respect to their residential condition and 
+for female students aged 16 to 24 staying at a PG proved to be a factor 
+resulting in testing positive for COVID. 
+  
+**MAJOR FINDINGS** 
+ 
+1. From the collected data 26.7% students tested positive for COVID.  Out of those 
+students 85.9% tested positive once for COVID and the remaining students 
+tested positive more than once for COVID. 
+2. 28.7% students suffered a loss in their immediate family due to COVID-19. 
+3. Most of the students chose offline mode of education because of better learning 
+environment and better interaction between students and teachers. Some of 
+the students chose online mode of education because it is convenient and 
+flexible as well as it has accessibility of time and place. 
+4. From the collected data 52.9% students prefer that the MCQ pattern exam is 
+beneficial for the students from their academic point of view. 
+5. COVID-19 had an effect on students’ studying habits, as we found that most 
+students studied 2 hours to 4 hours before the pandemic, which reduced to less 
+than 1 hour during the pandemic. 
+6. An increase in time spent on the internet for 48.3% of students was observed 
+during COVID. 
+7. 82.5% of students are aware about current affairs and most of the students refer 
+to social media for information thus making a better use of it. 
+8. 64.6% of students learned new skills during the pandemic. 
+9. 33.6% of students have started working after COVID-19 pandemic out of which 
+53.9% of students are working full time jobs and remaining 33.% of students 
+works part-time. 
+10. 51.7% of students had negative impact on their Physical health during pandemic 
+and 44.6% of students had negative impact on their mental health during 
+pandemic. 
+11. It has been observed that 45% of people had no change in their consumption of 
+junk food and sweets. On the Other hand, it has also been observed that 37.9% 
+of students have increased their consumption of fresh Vegetables and fruits.  
+12. An increase in frequency of exercising was observed in 35.8% of students. 
+13. According to the survey, the stress level of 42.9% of students have increased. 
+14. Also, there was no change observed in the average sleep time of 45.4% 
+students. 
+15. It was observed that preferred mode of shopping was both online and offline 
+for 42.1% of students before pandemic and was slightly increased to 43.8% after 
+pandemic.  
+16.  46.3% of students preferred homemade food before pandemic which later on 
+increased to 57.5 % after pandemic. This shows that students preferred healthy 
+diet over outside food. 
+17. It was also observed that 25% of students preferred Digital payment options 
+before pandemic which drastically increased to 63.3% during pandemic and 
+remained constant after pandemic showing that students find digitalization of 
+payment more convenient over other payment options. 
+18. Most of the students i.e. 73.8% prefer private vehicles for transportation after 
+COVID which shows that they are now more health conscious. 
+19. 35.4% of students are very much satisfied with their life these days.
