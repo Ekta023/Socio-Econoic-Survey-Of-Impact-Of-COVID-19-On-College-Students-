@@ -1,0 +1,91 @@
+Python commands –  
+import matplotlib.pyplot as p 
+import numpy as np 
+X=['BHIM / PayTm / Google Pay','Cash','Debit/Credit Card','Net banking'] 
+Before_pandemic=[60,158,12,10] 
+During_pandemic=[164,44,9,23] 
+After_pandemic=[152,60,14,14] 
+A_After_pandemic=list(np.add(Before_pandemic,During_pandemic))  
+A_After_pandemic 
+p.bar(X,Before_pandemic,label="Before pandemic") 
+p.bar(X,During_pandemic,bottom=Before_pandemic,label="During pandemic") 
+p.bar(X,After_pandemic,bottom=A_After_pandemic,label="After pandemic") 
+p.title("Sub-divided bar diagram") 
+p.xlabel("Modes of payment") 
+p.ylabel("No. of Students") 
+p.legend() 
+p.show()
+
+Interpretation: It can be observed that there is notable difference in using cash for 
+payments before, during and after pandemic. It was observed that before 
+pandemic only a few number of students preferred UPI (BHIM/PayTm/Google Pay) 
+as a mode of payment and it increased during pandemic. And there are very few 
+using cards and net banking. Due to secure payments and it being convenient to 
+use, most of the students use UPI for their regular payments.
+
+
+Python commands –  
+import matplotlib.pyplot as p 
+responses=[13.1147541,20.4918033,21.7213115,73.7704918] 
+mode_of_transportation=["cycle","Bus","Auto-Rickshaw","Private Vehicle"] 
+p.pie(responses,labels=mode_of_transportation,autopct="%2.1f%%") 
+p.title("Pie-Chart") 
+p.show() 
+ 
+Interpretation: It can be observed that most of the students prefer private vehicles 
+after pandemic. The number of students who prefer bus or auto rickshaw to other 
+mode of transport is almost the same. Keeping social distancing norms in mind the 
+preference for private vehicles has increased.
+
+Pie-Chart for preferred mode of watching movies after pandemic. 
+ 
+ 
+ 
+Python commands –  
+import matplotlib.pyplot as p 
+x=[115,118,82,100] 
+platforms=["T.V.","OTT","Theatre","Downloaded"] 
+p.pie(x,labels=platforms,autopct="%2.1f%%") 
+p.title("Pie-chart") 
+p.show() 
+ 
+ 
+Interpretation: It can be observed that very few students prefer theatre to watch 
+movie after pandemic which is better from social distancing point of view. Students 
+preferring other platforms (OTT, T.V. and Downloaded) is almost the same. 
+
+
+7. Histogram for Monthly Family Expenditure. 
+ 
+ 
+ 
+ 
+ 
+Python Commands –  
+import numpy as np 
+lb=[0,10,30,50,70] 
+ub=[10,30,50,70,99] 
+l=np.array(lb) 
+u=np.array(ub) 
+mid=(l+u)/2 
+f=[47,103,62,17,15] 
+f1=np.array(f) 
+y=np.repeat(mid,f1) 
+interval=[0,10,30,50,70,99] 
+p.hist(y,interval,edgecolor="Black",color="Green") 
+p.xlabel("Monthly family Expenditure") 
+p.title("Histogram") 
+p.show() 
+ 
+ 
+ 
+Monthly family expenditure Frequency 
+10k - 30k 103 
+30k - 50k 62 
+50k - 70k 17 
+Above 70k 15 
+Below 10k 47 
+Grand Total 244 
+
+Interpretation: It can be observed that monthly family expenditure of students is 
+positively skewed.
